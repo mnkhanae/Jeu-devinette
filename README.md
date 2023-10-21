@@ -14,7 +14,6 @@ Le jeu Devinette est une application interactive où les joueurs peuvent deviner
 
 # Captures d'écran
 ![jeu](https://github.com/mnkhanae/Jeu-devinette/assets/126266227/15cb8317-97d3-4251-ac9b-c1b655c9d2a7)
-![jeu2](https://github.com/mnkhanae/Jeu-devinette/assets/126266227/aff805f1-1af2-4889-a743-91f11b9482d3)
 ![jeu3](https://github.com/mnkhanae/Jeu-devinette/assets/126266227/c7f93674-e946-48d1-9514-d5612dbacf10)
 ![jeu5](https://github.com/mnkhanae/Jeu-devinette/assets/126266227/9517cf36-3ea4-4154-8266-dccc4d9a1dd5)
 
